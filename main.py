@@ -1,4 +1,4 @@
-#return True if sum of any two num in list equals key O(n)
+#return True if sum of any two num in list equals key
 num=[]
 key=int(input()) 
 n=int(input())
